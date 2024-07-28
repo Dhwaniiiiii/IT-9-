@@ -1,0 +1,44 @@
++*In[1]:*+
+[source, ipython3]
+----
+name = "Drashti"
+surname = "Dhola"
+print("my name is {} and surname is {}".format(name,surname))
+
+print(f"my name is {name} and surname is {surname}")
+----
+
+
++*Out[1]:*+
+----
+my name is Drashti and surname is Dhola
+my name is Drashti and surname is Dhola
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
+
+
++*In[7]:*+
+[source, ipython3]
+----
+str = "drashti"
+print(str[0])
+----
+
+
++*Out[7]:*+
+----
+d
+----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
